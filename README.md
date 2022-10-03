@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://davutcagri.github.io/Me.io/" target="blank">
 Çağrı</a></h1>
 <h3 align="center">Computer Engineer Student</h3>
 
@@ -7,8 +7,6 @@
 </a>
 
 - 🔭 I’m currently studying at <a href="https://www.khazar.org" target="blank">Khazar University</a>
-
-- 🌱 I’m currently working on Mobile App(React-Native)
 
 - 🤝 I’m available for freelancing.
 
