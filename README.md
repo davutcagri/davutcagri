@@ -6,7 +6,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently studying at <a href="https://www.khazar.org" target="blank">Khazar University/a>
+- 🔭 I’m currently studying at <a href="https://www.khazar.org" target="blank">Khazar University</a>
 
 - 🌱 I’m currently working on Mobile App(React-Native)
 
