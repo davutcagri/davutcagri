@@ -6,5 +6,5 @@ I like to develop things and I usually use the Java programming language while d
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/davutcagri//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/davutcagri0)  
+[<img src='http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/davutcagri//)  [<img src='http://www.w3.org/2000/svg' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/davutcagri0)  
 
