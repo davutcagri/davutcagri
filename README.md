@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying at <a href="https://www.khazar.org" target="blank">Khazar University</a>
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m not available for freelancing.
 
 - 🌱 I’m currently learning Java
 <br/>
