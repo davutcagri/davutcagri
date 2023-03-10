@@ -3,13 +3,12 @@
 <h3 align="center">Computer Engineer Student</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 </a>
 
 - 🔭 I’m currently studying at <a href="https://www.khazar.org" target="blank">Khazar University</a>
 
-- 🤝 I'm interested in artificial intelligence and backend 
-development
+- 🤝 I'm interested in artificial intelligence and backend development
 
 - 🌱 I’m currently developing some new projects
 <br/>
