@@ -10,7 +10,7 @@
 
 - 🤝 I’m not available for freelancing.
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently developing a Spring Boot & React project
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
