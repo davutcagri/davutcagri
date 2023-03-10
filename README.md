@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently studying at <a href="https://www.khazar.org" target="blank">Khazar University</a>
 
-- 🤝 I’m not available for freelancing
+- 🤝 I'm interested in artificial intelligence and backend development
 
-- 🌱 I’m currently developing a Spring Boot & React project
+- 🌱 I’m currently developing some new projects
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
