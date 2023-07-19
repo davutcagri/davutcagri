@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://davutcagri.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a target="blank">
 Çağrı</a></h1>
 <h3 align="center">Computer Engineer Student</h3>
 
