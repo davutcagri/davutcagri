@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying at <a href="https://www.khazar.org" target="blank">Khazar University</a>
 
-- 🤝 I'm interested in AI and backend development
+- 🤝 I'm interested in backend development
 
 - 🌱 I’m currently developing some new projects
 <br/>
