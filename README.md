@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently studying at <a href="https://www.khazar.org" target="blank">Khazar University</a>
 
-- 🤝 I'm interested in backend development
+- 🤝 I usually develop my projects using the Java programming language.
 
-- 🌱 I’m currently developing some new projects
+- 🌱 I’m currently improve myself on machine learning and deep learning.
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
